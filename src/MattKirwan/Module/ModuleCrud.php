@@ -1,6 +1,6 @@
 <?php
 
-namespace Via\Module;
+namespace MattKirwan\Module;
 
 use Via\QueryBuilder\QueryBuilderImp;
 
