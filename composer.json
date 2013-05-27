@@ -10,7 +10,7 @@
 	],
 	"require": {
 		"symfony/http-foundation": "2.1.*@dev",
-		"mattkirwan/querybuilder": "1.0.*"
+		"mattkirwan/QueryBuilderPackage": "1.0.*"
 	},
 	"autoload": {
 		"psr-0": {
