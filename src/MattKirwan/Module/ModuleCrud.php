@@ -2,7 +2,7 @@
 
 namespace MattKirwan\Module;
 
-use Via\QueryBuilder\QueryBuilderImp;
+use MattKirwan\QueryBuilder\QueryBuilderImp;
 
 class ModuleCrud extends QueryBuilderImp
 {
