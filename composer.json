@@ -1,0 +1,19 @@
+{
+	"name": "via/module",
+	"description": "Provides a lower level interface for module suitable packages.",
+	"authors": [
+		{
+			"name": "Matt Kirwan",
+			"homepage": "http://www.viacreative.co.uk",
+			"role": "developer"
+		}
+	],
+	"require": {
+		"via/querybuilder": "1.0.*"
+	},
+	"autoload": {
+		"psr-0": {
+			"Via\\Module\\": "src/"
+		}
+	}
+}
